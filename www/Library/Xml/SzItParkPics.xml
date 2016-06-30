@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhotoGallery>
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+
+   <PictureInfo>
+      <name>IMG_1912.jpg</name>
+      <label>This is image file with name IMG_1912.jpg</label>
+   </PictureInfo>
+
+</PhotoGallery>

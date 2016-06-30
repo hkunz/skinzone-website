@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewStuffData>
+
+<Promos>
+
+      <Somepromo>
+         <Header>Promo 1 Header</Header>
+         <Image>RebondNewHours.jpg</Image>
+         <Description>Description of Promo 1</Description>
+      </Somepromo>
+
+      <Somepromo>
+         <Header>Promo 2 Header</Header>
+         <Image>RebondNewHours.jpg</Image>
+         <Description>Description of Promo 2</Description>
+      </Somepromo>
+
+      <Somepromo>
+         <Header>Promo 3 Header</Header>
+         <Image>RebondNewHours.jpg</Image>
+         <Description>Description of Promo 3</Description>
+      </Somepromo>
+
+      <Somepromo>
+         <Header>Promo 1 Header</Header>
+         <Image>RebondNewHours.jpg</Image>
+         <Description>Description of Promo 1</Description>
+      </Somepromo>
+
+      <Somepromo>
+         <Header>Promo 3 Header</Header>
+         <Image>RebondNewHours.jpg</Image>
+         <Description>Description of Promo 3</Description>
+      </Somepromo>
+
+
+   </Promos>
+
+
+   <WhatsNew>
+
+      <Somethingnew>
+         <Header>Whats New 1 Header</Header>
+         <Image>Facials and Beauty Hour New Hours.jpg</Image>
+         <Description>Description of Whats New 1</Description>
+      </Somethingnew>
+
+      <Somethingnew>
+         <Header>Whats New 2 Header</Header>
+         <Image>Facials and Beauty Hour New Hours.jpg</Image>
+         <Description>Description of Whats New 2</Description>
+      </Somethingnew>
+
+      <Somethingnew>
+         <Header>Whats New 3 Header</Header>
+         <Image>Facials and Beauty Hour New Hours.jpg</Image>
+         <Description>Description of Whats New 3</Description>
+      </Somethingnew>
+
+
+   </WhatsNew>
+
+
+</NewStuffData>

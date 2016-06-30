@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SzLocationData>
+
+   <Location>
+      <Header>I.T. PARK</Header>
+      <Address>Unit 205 & 206, 2nd Flr, i2 Bldg. iT Park,</Address>
+      <Address>Lahug, Cebu City</Address>
+      <Telephone>(032) 238-2795</Telephone>
+      <Cellphone>0922-671-0986</Cellphone>
+      <Openhours>9:00am- 9:00pm; Open Everyday incl. Holidays</Openhours>
+      <Map LocX="346" LocY="239">Library/Graphics/SzLocations/ItPark/Map.gif</Map>
+      <Preview>Library/Graphics/SzLocations/ItPark/Preview.jpg</Preview>
+      <Email>skinzone.it@gmail.com</Email>
+      <Galleryname>SzItParkPics</Galleryname>
+   </Location>
+
+   <Location>
+      <Header>OSMENA BOULEVARD</Header>
+      <Address>Unit I and II, Suarez Bros Annex Building,</Address>
+      <Address>Osmena Blvd, Cebu City</Address>
+      <Telephone>(032) 254 139</Telephone>
+      <Cellphone>0923-587-2021</Cellphone>
+      <Openhours>9:00am- 7:00pm; Closed on Sundays and Holidays</Openhours>
+      <Map LocX="284" LocY="93">Library/Graphics/SzLocations/OsmenaBlvd/Map.gif</Map>
+      <Preview>Library/Graphics/SzLocations/OsmenaBlvd/Preview.jpg</Preview>
+      <Email>skinzone.it@gmail.com</Email>
+      <Galleryname>SzOsmenaBlvdPics</Galleryname>
+   </Location>
+
+</SzLocationData>

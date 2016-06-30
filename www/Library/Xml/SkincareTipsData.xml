@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkincareTips>
+
+   <Tip>
+      <Header>Some Skincare Tip</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>The biggest skin issue teens are obsessed with is acne. While it is important to correct this and keep your skin clean, balanced and hydrated, young ladies in their teens need to concentrate on one thing for anti-aging: Sunscreen! While many are using makeup and dressing to look older, they should really be concentrating on preventative care to protect themselves and stay young. About 70% of the sun damage that we put our skin through occurs before the age of 30 and it won’t show itself for decades.</Desc>
+   </Tip>
+
+   <Tip>
+      <Header>Another Skincare Tip</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>Ladies in this age group should continue to protect themselves from the sun. Serious and repetitive sunburns will set you up for skin cancer as well as premature aging. Most skin care issues start with lack of care and this is the time that it starts to accumulate, before we realize a little too late that it doesn’t even begin with the skin. Not enough sleep, too much alcohol and smoking will age you faster than you think. </Desc>
+   </Tip>
+
+   <Tip>
+      <Header>And Another One</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>Your skin will now start to lose its elasticity and firmness due to the breakdown of collagen. Also, the combination of decreased ability to retain moisture and decreased cell turnover rate (meaning the dead skin cells stay on longer) results in a duller complexion.</Desc>
+   </Tip>
+
+   <Tip>
+      <Header>Still Coming more Tips</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>This is the decade when women really show their aging, especially if they go through an early menopause- the loss of estrogen will decrease skin elasticity, firmness, and moisture. The number one sign of aging is excessively dry skin. Learn the skin care basics of your own skin type (oily, dry, normal, combination) and ask a medical professional for recommendations based on your skin type and needs.</Desc>
+   </Tip>
+
+   <Tip>
+      <Header>Don't Stop Flipping</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>As our faces continue to mature, more angles and hollows begin to show as gravity pulls down the fat pads of our cheeks, which also begin to shrink, losing the fullness of youth. With the skin cell cycle continuing to slow, our skin becomes thinner and more prone to wrinkling and drooping. Retin-A or an anti-aging regimen should definitely be considered. This will help reduce the fine lines and wrinkles and improve texture and tone.</Desc>
+   </Tip>
+
+   <Tip>
+      <Header>Last Skincare Tip Header</Header>
+      <Image>SkincareTip.jpg</Image>
+      <Desc>Increased thinning and dryness of our skin makes it more vulnerable to environmental damage and prone to irritation. Skin care needs are more demanding and products with more emollients are needed to protect and hydrate your skin. Decreased circulation in our skin lightens it, making age spots and other problems more apparent. A skin lightening serum with products like arbutin, kojic acid, emblica, or hydroquinone will help correct uneveness in coloration as well as spots.</Desc>
+   </Tip>
+
+</SkincareTips>

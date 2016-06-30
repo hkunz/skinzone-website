@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestimonialsData>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+   <TestiInfo>
+      <person>Person's Name Here</person>
+      <testi>Testimonial Is Here</testi>
+      <thumbnail>TestiPic.jpg</thumbnail>
+      <image>TestiPic.jpg</image>
+      <label>This is image file TestiPic.jpg</label>
+   </TestiInfo>
+
+
+</TestimonialsData>
